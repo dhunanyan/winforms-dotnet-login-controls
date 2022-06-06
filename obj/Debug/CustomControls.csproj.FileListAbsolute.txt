@@ -1,0 +1,13 @@
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\bin\Debug\CustomControls.exe.config
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\bin\Debug\CustomControls.exe
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.csproj.AssemblyReference.cache
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.Main.resources
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.cache
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.csproj.CoreCompileInputs.cache
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.exe
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.pdb
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.Controls.CustomTextBoxPassword.resources
+C:\Users\dhunanyan\Desktop\AGH\sem4\CustomControls\obj\Debug\CustomControls.Controls.CustomTextBoxLogin.resources
